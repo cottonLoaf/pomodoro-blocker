@@ -1,0 +1,32 @@
+# Games
+
+Astrologaster.exe
+Bugsnax.exe
+Cult Of The Lamb.exe
+CoffeeTalk.exe
+Darkest.exe
+deadcells.exe
+steam.exe
+Finding Paradise.exe
+FTLGame.exe
+hollow_knight.exe
+HotlineMiami2.exe
+IM.exe
+JumpKing.exe
+MinecraftLauncher.exe
+osu!.exe
+Overcooked2.exe
+ProjectZomboid64.exe
+RimWorldWin64.exe
+SkullGirls.exe
+javaw.exe
+Spelunky.exe
+Stardew Valley.exe
+TETR.IO.exe
+TLauncher.exe
+LibraryOfRuina.exe
+Loop Hero.exe
+
+# Videoplayers
+
+vlc.exe
